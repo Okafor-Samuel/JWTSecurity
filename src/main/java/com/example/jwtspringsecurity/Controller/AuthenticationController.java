@@ -1,4 +1,4 @@
-package com.example.jwtspringsecurity.Auth;
+package com.example.jwtspringsecurity.Controller;
 
 import com.example.jwtspringsecurity.Dto.AuthenticationRequest;
 import com.example.jwtspringsecurity.Dto.AuthenticationResponse;
